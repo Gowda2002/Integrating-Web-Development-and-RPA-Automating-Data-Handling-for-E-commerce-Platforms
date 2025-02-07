@@ -1,1 +1,0 @@
-SELECT * FROM `full-stack-ecommerce`.product_category;
